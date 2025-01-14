@@ -1,7 +1,5 @@
 # Twitter Trends Scraper
 
-![Project Banner](image.png)
-
 ## Overview
 The **Twitter Trends Scraper** is a Node.js-powered web application that scrapes Twitter’s trending topics and stores the data in a MongoDB database. It also features a visually appealing frontend for users to fetch and view the latest trends directly from a browser.
 
