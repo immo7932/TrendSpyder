@@ -84,7 +84,7 @@ x-trends
 )
 
 ### Scraped Trends
-![Trends Screenshot](image.png)
+![Trends Screenshot](x-trends/public/ScrapedPage/image.png)
 
 ## API Endpoints
 - **POST `/run_scraper`**
