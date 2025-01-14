@@ -80,7 +80,8 @@ x-trends
 
 ## Screenshots
 ### Homepage
-![Homepage Screenshot](image.png)
+![Homepage Screenshot](![image](https://github.com/user-attachments/assets/06f0389a-7b6b-4531-b475-62cde05a6388)
+)
 
 ### Scraped Trends
 ![Trends Screenshot](image.png)
