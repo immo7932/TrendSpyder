@@ -4,8 +4,8 @@ const { v4: uuidv4 } = require('uuid');
 const fetch = require('node-fetch');
 
 
-const X_USERNAME = 'immo7935';           
-const X_PASSWORD = 'Asdfghjkl@123';      
+const X_USERNAME = 'immo7932';           
+const X_PASSWORD = 'Imranalam@123';      
 const CHROME_DRIVER_PATH = 'C:\\Windows\\chromedriver.exe';
 
 // ProxyMesh Configuration
