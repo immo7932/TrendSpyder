@@ -80,7 +80,7 @@ x-trends
 
 ## Screenshots
 ### Homepage
-![Homepage Screenshot](public/Homepage/image.png)
+![Homepage Screenshot](x-trends/public/Hompage/image.png)
 )
 
 ### Scraped Trends
